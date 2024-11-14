@@ -1,11 +1,11 @@
 ! function() {
     "use strict";
 
-    var startingBalance = 600;
-    var startingJackpot = 2539;
+    var startingBalance = 700;
+    var startingJackpot = 1539;
 
     var jackpotIncrement = 37;
-    var spinCost = 6;
+    var spinCost = 7;
 
     var t = {
             9662: function(t, n, e) {
